@@ -26,5 +26,5 @@ Aunque recién estoy comenzando mi camino como desarrollador, he empezado a trab
 sandoval.ramos.ll.a@gmail.com
 lsandovalr1901@alumno.ipn.mx
 
-##Agradecimientos
+###  Agradecimientos
 Agradezco a todas las personas que me han apoyado a lo largo de mi carrera y a la comunidad de código abierto por su increíble trabajo.
