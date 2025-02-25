@@ -22,9 +22,9 @@ Estoy buscando **mi primera oportunidad profesional en tecnología** 💼, donde
 
 Aunque recién estoy comenzando mi camino como desarrollador, he empezado a trabajar en algunos proyectos personales utilizando **Python** 🐍, y he tenido la suerte de participar en **comunidades de estudiantes** y grupos de aprendizaje donde puedo compartir mis conocimientos y aprender de otros que están en el mismo proceso 📈.
 
-## Contacto
-- **sandoval.ramos.ll.a@gmail.com
-- **lsandovalr1901@alumno.ipn.mx
+### Contacto 🔌
+- sandoval.ramos.ll.a@gmail.com
+- lsandovalr1901@alumno.ipn.mx
 
-###  Agradecimientos
+###  Agradecimientos 🦃
 Agradezco a todas las personas que me han apoyado a lo largo de mi carrera y a la comunidad de código abierto por su increíble trabajo.
