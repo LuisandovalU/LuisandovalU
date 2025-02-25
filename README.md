@@ -1,6 +1,6 @@
 ## Acerca de mí
 
-¡Hola! 👋 Soy [Tu Nombre], un estudiante de **Informática** con una gran pasión por aprender y desarrollarme en el mundo de la tecnología 💻. Aunque aún estoy en formación, me esfuerzo por aprovechar mi tiempo libre para aprender **Python** 🐍 y explorar diferentes tecnologías. Mi objetivo es seguir creciendo y, con el tiempo, aportar mis conocimientos a proyectos innovadores 🚀.
+¡Hola! 👋 Soy Luis Alberto, un estudiante de **Informática** con una gran pasión por aprender y desarrollarme en el mundo de la tecnología 💻. Aunque aún estoy en formación, me esfuerzo por aprovechar mi tiempo libre para aprender **Python** 🐍 y explorar diferentes tecnologías. Mi objetivo es seguir creciendo y, con el tiempo, aportar mis conocimientos a proyectos innovadores 🚀.
 
 Mi experiencia previa en el área de **administración**, trabajando como **supervisor** en **Starbucks** ☕️ y **Wildfork** 🍖, me ha ayudado a desarrollar habilidades en **gestión de equipos** 🤝, **administración de recursos** 💼, **planificación de tiempos** ⏰ y **capacitación de personal** 🎓. A través de estos roles, aprendí a trabajar bajo presión, tomar decisiones informadas, asignar tareas de forma eficiente y promover un ambiente de trabajo colaborativo. Aunque estas habilidades provienen de un campo distinto al de la tecnología, las considero muy valiosas y las quiero aplicar ahora en el mundo de la informática.
 
@@ -22,4 +22,9 @@ Estoy buscando **mi primera oportunidad profesional en tecnología** 💼, donde
 
 Aunque recién estoy comenzando mi camino como desarrollador, he empezado a trabajar en algunos proyectos personales utilizando **Python** 🐍, y he tenido la suerte de participar en **comunidades de estudiantes** y grupos de aprendizaje donde puedo compartir mis conocimientos y aprender de otros que están en el mismo proceso 📈.
 
+## Contacto
+sandoval.ramos.ll.a@gmail.com
+lsandovalr1901@alumno.ipn.mx
 
+##Agradecimientos
+Agradezco a todas las personas que me han apoyado a lo largo de mi carrera y a la comunidad de código abierto por su increíble trabajo.
