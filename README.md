@@ -24,7 +24,7 @@ Estoy buscando **mi primera oportunidad profesional en tecnología** 💼, donde
 
 ### Contribuciones que me enorgullecen 🌟
 
-Aunque recién estoy comenzando mi camino como desarrollador, he empezado a trabajar en algunos proyectos personales utilizando **Python** 🐍, y he tenido la suerte de participar en **comunidades de estudiantes** y grupos de aprendizaje donde puedo compartir mis conocimientos y aprender de otros que están en el mismo proceso 📈.
+Aunque recién estoy comenzando mi camino como desarrollador, he empezado a trabajar en algunos proyectos personales utilizando **JavaScript** **Python** 🐍, y he tenido la suerte de participar en **comunidades de estudiantes** y grupos de aprendizaje donde puedo compartir mis conocimientos y aprender de otros que están en el mismo proceso 📈.
 
 ### Contacto 🔌
 - sandoval.ramos.ll.a@gmail.com
