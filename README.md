@@ -1,16 +1,20 @@
-## Acerca de mí
+# 👋 ¡Hola! Soy Luis Alberto
 
-¡Hola! 👋 Soy Luis Alberto, un estudiante de **Informática** con una gran pasión por aprender y desarrollarme en el mundo de la tecnología 💻. Aunque aún estoy en formación, me esfuerzo por aprovechar mi tiempo libre para aprender **Python** 🐍 y explorar diferentes tecnologías. Mi objetivo es seguir creciendo y, con el tiempo, aportar mis conocimientos a proyectos innovadores 🚀.
+Soy estudiante de **Ingeniería en Informática** con una gran pasión por aprender y crecer en el mundo de la tecnología 💻. Actualmente formo parte del programa **Oracle Next Education (ONE)**, donde estoy aprendiendo **desarrollo en JavaScript**, mientras continúo fortaleciendo mis conocimientos en **Python** 🐍.
 
-Mi experiencia previa en el área de **administración**, trabajando como **supervisor** en **Starbucks** ☕️ y **Wildfork** 🍖, me ha ayudado a desarrollar habilidades en **gestión de equipos** 🤝, **administración de recursos** 💼, **planificación de tiempos** ⏰ y **capacitación de personal** 🎓. A través de estos roles, aprendí a trabajar bajo presión, tomar decisiones informadas, asignar tareas de forma eficiente y promover un ambiente de trabajo colaborativo. Aunque estas habilidades provienen de un campo distinto al de la tecnología, las considero muy valiosas y las quiero aplicar ahora en el mundo de la informática.
+Me gusta aprovechar mi tiempo libre para explorar nuevas herramientas, practicar programación y prepararme para aportar en proyectos que tengan un impacto positivo 🚀.
 
-### Mis fortalezas 💪
+---
 
-- **Desarrollo en Python**: Aunque aún estoy comenzando, tengo muchas ganas de aprender y utilizar lo que sé para resolver problemas prácticos 🧑‍💻.
-- **Liderazgo y gestión**: Mi experiencia como supervisor me ha permitido aprender a trabajar con equipos diversos, asignar tareas de manera efectiva y gestionar el tiempo y los recursos de forma eficiente 📅.
-- **Comunicación efectiva**: Me esfuerzo por ser claro y efectivo en mi comunicación, y me gusta mantener un ambiente colaborativo donde todos puedan aportar sus ideas 📣.
-- **Resolución de problemas**: Siempre busco mejorar y encontrar soluciones para optimizar procesos y superar obstáculos 🛠️.
-- **Capacitación y mentoring**: He tenido la oportunidad de guiar y capacitar a nuevos miembros del equipo, y me gustaría aplicar esas mismas habilidades para ayudar a otros estudiantes o profesionales en el campo de TI 👨‍🏫.
+## 💼 Experiencia previa
+
+Antes de enfocarme en el área tecnológica, trabajé como **supervisor** en **Starbucks ☕** y **Wildfork 🍖**. Durante este tiempo, desarrollé habilidades que considero valiosas también en el mundo de la informática:
+
+- Gestión de equipos 🤝
+- Administración de recursos 💼
+- Planificación de tiempos ⏰
+- Capacitación de personal 🎓
+- Toma de decisiones bajo presión ⚡
 
 ### ¿Por qué trabajar conmigo? 🤔
 
