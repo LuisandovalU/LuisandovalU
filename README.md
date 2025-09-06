@@ -7,7 +7,11 @@
 
 ### 🚀 Sobre mí
 
-Soy un estudiante de Ingeniería en Informática en el **IPN (UPIICSA)**. Mi camino en la tecnología está impulsado por mi pasión por el código, el análisis de datos y la ciberseguridad. Busco mi primera oportunidad profesional para aplicar lo que he aprendido y crecer como desarrollador.
+I am a Computer Engineering student from the National Polytechnic Institute (IPN) with a strong passion for technology and problem-solving. I am currently enhancing my skills in data science and software development through the Oracle ONE Next Education program, with a focus on languages like Python and database management.
+
+My previous experience as a team leader in service-oriented roles has taught me how to manage projects, motivate teams, and optimize processes. These skills are directly applicable to software development, where collaboration, logic, and planning are crucial.
+
+I am actively seeking an opportunity to apply and expand my knowledge in a professional setting. I am confident that my analytical thinking, eagerness to learn, and proactive approach to complex challenges will allow me to contribute meaningfully to an innovative team and continue growing in the tech world.
 
 ---
 
