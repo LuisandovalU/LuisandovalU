@@ -1,34 +1,36 @@
-# 👋 ¡Hola! Soy Luis Alberto
+# 👋 Hi! I'm Luis Alberto
 
-Soy estudiante de **Ingeniería en Informática** con una gran pasión por aprender y crecer en el mundo de la tecnología 💻. Actualmente formo parte del programa **Oracle Next Education (ONE)**, donde estoy aprendiendo **desarrollo en JavaScript**, mientras continúo fortaleciendo mis conocimientos en **Python** 🐍.
+I am a **Computer Engineering** student with a great passion for learning and growing in the world of technology 💻. I am currently part of the **Oracle Next Education (ONE)** program, where I am learning **JavaScript development**, while continuing to strengthen my knowledge in **Python** 🐍.
 
-Me gusta aprovechar mi tiempo libre para explorar nuevas herramientas, practicar programación y prepararme para aportar en proyectos que tengan un impacto positivo 🚀.
+I like to use my free time to explore new tools, practice programming, and prepare myself to contribute to projects that have a positive impact 🚀.
 
 ---
 
-## 💼 Experiencia previa
+## 💼 Previous Experience
 
-Antes de enfocarme en el área tecnológica, trabajé como **supervisor** en **Starbucks ☕** y **Wildfork 🍖**. Durante este tiempo, desarrollé habilidades que considero valiosas también en el mundo de la informática:
+Before focusing on the technology field, I worked as a **supervisor** at **Starbucks ☕** and **Wildfork 🍖**. During this time, I developed skills that I consider valuable in the IT world as well:
 
-- Gestión de equipos 🤝
-- Administración de recursos 💼
-- Planificación de tiempos ⏰
-- Capacitación de personal 🎓
-- Toma de decisiones bajo presión ⚡
+-   Team management 🤝
+-   Resource administration 💼
+-   Time planning ⏰
+-   Staff training 🎓
+-   Decision-making under pressure ⚡
 
-### ¿Por qué trabajar conmigo? 🤔
+### Why work with me? 🤔
 
-Soy un estudiante **motivado por aprender** 📚, **proactivo** 💡 y con la capacidad de **adaptarme rápidamente** a nuevos desafíos ⚡. Mi experiencia en la administración me ha dado una perspectiva práctica en la gestión de proyectos y el trabajo en equipo, habilidades que considero fundamentales para crecer en el área de TI 🌱.
+I am a student **motivated to learn** 📚, **proactive** 💡, and with the ability to **adapt quickly** to new challenges ⚡. My experience in management has given me a practical perspective on project management and teamwork, skills I consider fundamental for growth in the IT area 🌱.
 
-Estoy buscando **mi primera oportunidad profesional en tecnología** 💼, donde pueda seguir aprendiendo, aplicar mis conocimientos actuales en **programación** y contribuir al éxito de un equipo con mi experiencia en **gestión de equipos**.
+I am looking for **my first professional opportunity in technology** 💼, where I can continue to learn, apply my current knowledge in **programming**, and contribute to a team's success with my experience in **team management**.
 
-### Contribuciones que me enorgullecen 🌟
+### Contributions I'm proud of 🌟
 
-Aunque recién estoy comenzando mi camino como desarrollador, he empezado a trabajar en algunos proyectos personales utilizando **JavaScript** **Python** 🐍, y he tenido la suerte de participar en **comunidades de estudiantes** y grupos de aprendizaje donde puedo compartir mis conocimientos y aprender de otros que están en el mismo proceso 📈.
+Although I am just beginning my journey as a developer, I have started working on some personal projects using **JavaScript** and **Python** 🐍, and I have been fortunate to participate in **student communities** and learning groups where I can share my knowledge and learn from others who are in the same process 📈.
 
-### Contacto 🔌
-- sandoval.ramos.ll.a@gmail.com
-- lsandovalr1901@alumno.ipn.mx
+### Contact 🔌
 
-###  Agradecimientos 🦃
-Agradezco a todas las personas que me han apoyado a lo largo de mi carrera y a la comunidad de código abierto por su increíble trabajo.
+-   sandoval.ramos.ll.a@gmail.com
+-   lsandovalr1901@alumno.ipn.mx
+
+### Acknowledgements 🦃
+
+I thank all the people who have supported me throughout my career and the open-source community for their incredible work.
