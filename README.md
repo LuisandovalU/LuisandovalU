@@ -42,8 +42,3 @@ Soy un estudiante de Ingeniería en Informática en el **IPN (UPIICSA)**. Mi cam
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**Tu_Usuario_de_GitHub**&show_icons=true&theme=dark&hide_border=true&title_color=white&icon_color=white&text_color=white&bg_color=0D1117" alt="Estadísticas de GitHub"/>
-</p>
