@@ -1,43 +1,34 @@
-### 👋 ¡Hola! Soy Luis Alberto
+### 👋 Hola, soy Luis Alberto
 
-Soy un estudiante de **Ingeniería en Informática** en el **IPN (UPIICSA)** con una pasión por la tecnología y la creación. Mi enfoque está en el desarrollo con **JavaScript** y estoy profundizando mis conocimientos en **algoritmos** y **estructuras de datos**.
-
-Estoy construyendo una base sólida en:
-
-* **Desarrollo Web (Front-end y Back-end)** con JavaScript.
-* **Análisis de Datos** (Python).
-* **Ciberseguridad**.
-* **Desarrollo 3D**.
-
-Actualmente, soy parte del programa **Oracle Next Education (ONE)**, lo que me permite seguir aprendiendo y aplicando mis habilidades.
+Estudiante de **Ingeniería en Informática** en el **IPN (UPIICSA)** con una pasión por resolver problemas y crear tecnología con un propósito. 🚀
 
 ---
 
-### 💼 Experiencia y Habilidades
+### 🌱 Mi viaje de aprendizaje y crecimiento
 
-Mis años como supervisor en **Starbucks** y **Wildfork** me enseñaron a liderar equipos, administrar recursos y tomar decisiones. Ahora aplico esas habilidades para gestionar proyectos y colaborar de manera efectiva en el mundo de la tecnología.
+Actualmente, estoy profundizando mis conocimientos en:
 
-**Habilidades Técnicas:**
-* **Lenguajes:** JavaScript, Python.
-* **Herramientas:** Git, GitHub.
+* 💻 **Desarrollo Web:** JavaScript (Front-end & Back-end).
+* 📊 **Análisis de Datos:** Utilizando Python para extraer información valiosa.
 
-**Habilidades Blandas:**
-* Liderazgo y Gestión de equipos.
-* Comunicación y Colaboración.
-* Resolución de problemas.
-* Adaptabilidad y Proactividad.
+
+Soy parte de la comunidad de **Oracle Next Education (ONE)**, donde estoy fortaleciendo mis habilidades de programación.
 
 ---
 
-### 🚀 Proyectos y Contribuciones
+### 💼 Habilidades y experiencia
 
-Estoy construyendo mi portafolio con proyectos personales en **JavaScript**. Me enorgullece participar en comunidades de aprendizaje, donde comparto conocimientos y aprendo de otros.
+Mis años como supervisor me dieron una base sólida en:
 
-Estoy buscando mi primera oportunidad en el sector tecnológico para aplicar mis conocimientos, crecer como desarrollador y contribuir a proyectos con impacto.
+* 🤝 **Liderazgo de Equipos:** Guiando a grupos hacia objetivos comunes.
+* 🧠 **Pensamiento Estratégico:** Planificando y tomando decisiones bajo presión.
+* ⏱️ **Gestión de Proyectos:** Administrando recursos y tiempo de manera eficiente.
+
+Aplico estas habilidades para colaborar de manera efectiva y contribuir a proyectos de software.
 
 ---
 
 ### 📫 Conéctate conmigo
 
-* **Correo electrónico:** sandoval.ramos.ll.a@gmail.com
 * **LinkedIn:** [linkedin.com/in/luis-alberto-sandoval-5b2319191](https://www.linkedin.com/in/luis-alberto-sandoval-5b2319191/)
+* **Correo:** sandoval.ramos.ll.a@gmail.com
