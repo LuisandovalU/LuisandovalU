@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/Gj3H18h.png" alt="Banner Personalizado" width="600"/>
+
   <h1>¡Hola! Soy Luis Alberto, futuro ingeniero. 👋</h1>
 </div>
 
