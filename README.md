@@ -1,36 +1,43 @@
-# 👋 Hi! I'm Luis Alberto
+### 👋 ¡Hola! Soy Luis Alberto
 
-I am a **Computer Engineering** student with a great passion for learning and growing in the world of technology 💻. I am currently part of the **Oracle Next Education (ONE)** program, where I am learning **JavaScript development**, while continuing to strengthen my knowledge in **Python** 🐍.
+Soy un estudiante de **Ingeniería en Informática** en el **IPN (UPIICSA)** con una pasión por la tecnología y la creación. Mi enfoque está en el desarrollo con **JavaScript** y estoy profundizando mis conocimientos en **algoritmos** y **estructuras de datos**.
 
-I like to use my free time to explore new tools, practice programming, and prepare myself to contribute to projects that have a positive impact 🚀.
+Estoy construyendo una base sólida en:
+
+* **Desarrollo Web (Front-end y Back-end)** con JavaScript.
+* **Análisis de Datos** (Python).
+* **Ciberseguridad**.
+* **Desarrollo 3D**.
+
+Actualmente, soy parte del programa **Oracle Next Education (ONE)**, lo que me permite seguir aprendiendo y aplicando mis habilidades.
 
 ---
 
-## 💼 Previous Experience
+### 💼 Experiencia y Habilidades
 
-Before focusing on the technology field, I worked as a **supervisor** at **Starbucks ☕** and **Wildfork 🍖**. During this time, I developed skills that I consider valuable in the IT world as well:
+Mis años como supervisor en **Starbucks** y **Wildfork** me enseñaron a liderar equipos, administrar recursos y tomar decisiones. Ahora aplico esas habilidades para gestionar proyectos y colaborar de manera efectiva en el mundo de la tecnología.
 
--   Team management 🤝
--   Resource administration 💼
--   Time planning ⏰
--   Staff training 🎓
--   Decision-making under pressure ⚡
+**Habilidades Técnicas:**
+* **Lenguajes:** JavaScript, Python.
+* **Herramientas:** Git, GitHub.
 
-### Why work with me? 🤔
+**Habilidades Blandas:**
+* Liderazgo y Gestión de equipos.
+* Comunicación y Colaboración.
+* Resolución de problemas.
+* Adaptabilidad y Proactividad.
 
-I am a student **motivated to learn** 📚, **proactive** 💡, and with the ability to **adapt quickly** to new challenges ⚡. My experience in management has given me a practical perspective on project management and teamwork, skills I consider fundamental for growth in the IT area 🌱.
+---
 
-I am looking for **my first professional opportunity in technology** 💼, where I can continue to learn, apply my current knowledge in **programming**, and contribute to a team's success with my experience in **team management**.
+### 🚀 Proyectos y Contribuciones
 
-### Contributions I'm proud of 🌟
+Estoy construyendo mi portafolio con proyectos personales en **JavaScript**. Me enorgullece participar en comunidades de aprendizaje, donde comparto conocimientos y aprendo de otros.
 
-Although I am just beginning my journey as a developer, I have started working on some personal projects using **JavaScript** and **Python** 🐍, and I have been fortunate to participate in **student communities** and learning groups where I can share my knowledge and learn from others who are in the same process 📈.
+Estoy buscando mi primera oportunidad en el sector tecnológico para aplicar mis conocimientos, crecer como desarrollador y contribuir a proyectos con impacto.
 
-### Contact 🔌
+---
 
--   sandoval.ramos.ll.a@gmail.com
--   lsandovalr1901@alumno.ipn.mx
+### 📫 Conéctate conmigo
 
-### Acknowledgements 🦃
-
-I thank all the people who have supported me throughout my career and the open-source community for their incredible work.
+* **Correo electrónico:** sandoval.ramos.ll.a@gmail.com
+* **LinkedIn:** [linkedin.com/in/luis-alberto-sandoval-5b2319191](https://www.linkedin.com/in/luis-alberto-sandoval-5b2319191/)
