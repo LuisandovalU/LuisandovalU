@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hello! I'm Luis Alberto, a future engineer./h1>
+  <h1>Hello! I'm Luis Alberto, a future engineer.</h1>
 </div>
 
 ---
