@@ -14,9 +14,7 @@ My previous experience as a team leader in service-oriented roles has taught me 
 I am actively seeking an opportunity to apply and expand my knowledge in a professional setting. I am confident that my analytical thinking, eagerness to learn, and proactive approach to complex challenges will allow me to contribute meaningfully to an innovative team and continue growing in the tech world.
 
 ---
-
-### Tecnologías que utilizo y que me interesan
-
+### Technologies I use and am interested in
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -27,15 +25,17 @@ I am actively seeking an opportunity to apply and expand my knowledge in a profe
 
 ---
 
-### Mi camino de aprendizaje
+### My Learning Journey
 
-- **Desarrollo:** Me enfoco en proyectos con **JavaScript** y **Python**.
-- **Habilidades de Liderazgo:** Mi experiencia previa me enseñó a liderar equipos y resolver problemas bajo presión.
-- **Áreas de Interés:** Estoy explorando el mundo del **Análisis de Datos**, la **Ciberseguridad** y el **Desarrollo 3D**.
+- **Development:** I focus on projects using **JavaScript** and **Python**.
+
+- **Leadership Skills:** My previous experience has taught me to lead teams and solve problems under pressure.
+
+- **Areas of Interest:** I am exploring the world of **Data Analytics**, **Cybersecurity**, and **3D Development**.
 
 ---
 
-### Conéctate conmigo
+### Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-alberto-sandoval-5b2319191/">
