@@ -5,7 +5,7 @@
 
 ---
 
-### Sobre mí
+### About me
 
 I am a Computer Engineering student from the National Polytechnic Institute (IPN) with a strong passion for technology and problem-solving. I am currently enhancing my skills in data science and software development through the Oracle ONE Next Education program, with a focus on languages like Python and database management.
 
@@ -15,7 +15,7 @@ I am actively seeking an opportunity to apply and expand my knowledge in a profe
 
 ---
 
-### Technologies I use and am interested in
+### Tecnologías que utilizo y que me interesan
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -27,17 +27,15 @@ I am actively seeking an opportunity to apply and expand my knowledge in a profe
 
 ---
 
-### My learning path
+### Mi camino de aprendizaje
 
-- **Development:** I focus on projects using **JavaScript** and **Python**.
-
-- **Leadership Skills:** My previous experience has taught me to lead teams and solve problems under pressure.
-
-- **Areas of Interest:** I am exploring the world of **Data Analysis**, **Cybersecurity**, and **3D Development**.
+- **Desarrollo:** Me enfoco en proyectos con **JavaScript** y **Python**.
+- **Habilidades de Liderazgo:** Mi experiencia previa me enseñó a liderar equipos y resolver problemas bajo presión.
+- **Áreas de Interés:** Estoy explorando el mundo del **Análisis de Datos**, la **Ciberseguridad** y el **Desarrollo 3D**.
 
 ---
 
-### Connect with me
+### Conéctate conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-alberto-sandoval-5b2319191/">
