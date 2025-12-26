@@ -1,41 +1,48 @@
 <div align="center">
 
-  <h1>Hello! I'm Luis Alberto, a future engineer.</h1>
+  <h1>Hi there! I'm Luis Alberto 👋</h1>
+  <h3>Future Computer Engineer @ IPN | Oracle ONE Participant</h3>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Science+Enthusiast;Python+%26+JavaScript;Always+Learning..." alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LuisandovalU&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
+
 </div>
 
 ---
 
-### About me
+### 🚀 About me
 
-I am a Computer Engineering student from the National Polytechnic Institute (IPN) with a strong passion for technology and problem-solving. I am currently enhancing my skills in data science and software development through the Oracle ONE Next Education program, with a focus on languages like Python and database management.
+I am a Computer Engineering student from the **National Polytechnic Institute (IPN)** with a strong passion for technology and problem-solving. Currently enhancing my skills in **Data Science** and **Software Development** through the **Oracle ONE Next Education** program.
 
-My previous experience as a team leader in service-oriented roles has taught me how to manage projects, motivate teams, and optimize processes. These skills are directly applicable to software development, where collaboration, logic, and planning are crucial.
-
-I am actively seeking an opportunity to apply and expand my knowledge in a professional setting. I am confident that my analytical thinking, eagerness to learn, and proactive approach to complex challenges will allow me to contribute meaningfully to an innovative team and continue growing in the tech world.
+* 💼 **Leadership:** My background in team leadership has honed my ability to manage projects and optimize processes.
+* 🎯 **Goal:** I am actively seeking an opportunity to apply my analytical thinking to an innovative team.
+* 🌱 **Interests:** Data Analytics, Cybersecurity, and 3D Development.
 
 ---
-### Technologies I use and am interested in
+
+### 🛠️ Technologies & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,git,github,mysql,linux,vscode" />
 </div>
 
 ---
 
-### My Learning Journey
-
-- **Development:** I focus on projects using **JavaScript** and **Python**.
-
-- **Leadership Skills:** My previous experience has taught me to lead teams and solve problems under pressure.
-
-- **Areas of Interest:** I am exploring the world of **Data Analytics**, **Cybersecurity**, and **3D Development**.
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisandovalU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisandovalU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="langs" />
+</div>
 
 ---
 
-### Connect with me
+### 📬 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-alberto-sandoval-5b2319191/">
@@ -45,4 +52,3 @@ I am actively seeking an opportunity to apply and expand my knowledge in a profe
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
-
