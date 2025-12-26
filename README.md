@@ -22,7 +22,7 @@
 
 ###  About me
 
-I am a Computer Engineering student from the **National Polytechnic Institute (IPN)** with a strong passion for technology and problem-solving. Currently enhancing my skills in **Data Science** and **Software Development** through the **Oracle ONE Education** program.
+I am a Computer Engineering student from the **National Polytechnic Institute (IPN)** with a strong passion for technology and problem-solving. Currently enhancing my skills in **Data Science** and **Software Development** through the **Oracle Education** program.
 
 *  **Leadership:** My background in team leadership has honed my ability to manage projects and optimize processes.
 *  **Goal:** I am actively seeking an opportunity to apply my analytical thinking to an innovative team.
