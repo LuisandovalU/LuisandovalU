@@ -32,7 +32,7 @@ I am a Computer Engineering student from the **National Polytechnic Institute (I
 
 ###  Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,html,css,git,github,mysql,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,py,ts,html,css,git,github,react,linux,webstorm" />
 </div>
 
 ---
